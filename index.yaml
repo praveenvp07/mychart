@@ -3,11 +3,22 @@ entries:
   nginx-cy:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-02-27T03:46:21.604879419Z"
+    created: "2020-02-27T04:38:10.516171014Z"
     description: customized jenkins
     digest: 032ab2c862e323f77b55db5b23861265ebd1a8729f30a593deba3feab98c72fe
     name: nginx-cy
     urls:
     - https://praveenvp07.github.io/mychart/nginx-cy-2.tgz
     version: "2"
-generated: "2020-02-27T03:46:21.603502139Z"
+  rsvp-db:
+  - apiVersion: v2
+    appVersion: "3.3"
+    created: "2020-02-27T04:38:10.51798246Z"
+    description: A Helm chart for Kubernetes
+    digest: 0509f7d258ef389b7e5b0a90e87345ca956c6cf8a6351f9933627498ef6c1733
+    name: rsvp-db
+    type: application
+    urls:
+    - https://praveenvp07.github.io/mychart/rsvp-db-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-02-27T04:38:10.514524902Z"
